@@ -11,7 +11,7 @@
 
 **A responsive Instagram-inspired UI for photo sharing with post creation, likes, and comments — frontend only.**  
 
-**Live Demo:** [Instagram clone](https://insta-clone-online.netlify.app/)
+**Live Demo:** [Instagram UI clone](https://insta-clone-online.netlify.app/)
 
 ---
 
@@ -39,31 +39,21 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 
 ## 🖼 Screenshots
 
-<details>
-<summary>Desktop Screenshots</summary>
+### Desktop Views
 
-### Home Light Mode
 ![Home Light Mode](./DesktopScreenshot/HomeLightMode.png)  
 *Home page in light mode with full desktop layout.*
 
-### Home Dark Mode
 ![Home Dark Mode](./DesktopScreenshot/DarkMode.png)  
 *Home page in dark mode for desktop users.*
 
-### Home Feed Example
 ![Home Feed Example](./DesktopScreenshot/Home1.png)  
 *Example of posts with likes and comments.*
 
-</details>
+### Mobile View
 
-<details>
-<summary>Mobile Screenshots</summary>
-
-### Mobile Responsive View
 ![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
 *Fully responsive mobile layout, optimized for small screens.*
-
-</details>
 
 ---
 
