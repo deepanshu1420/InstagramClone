@@ -11,7 +11,7 @@
 
 **A responsive Instagram-inspired UI for photo sharing with post creation, likes, and comments — frontend only.**  
 
-**Live Demo:** [https://insta-clone-online.netlify.app/](https://insta-clone-online.netlify.app/)
+**Live Demo:** [Instgram Clone](https://insta-clone-online.netlify.app/)
 
 ---
 
