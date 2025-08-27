@@ -1,3 +1,5 @@
+import GitHubLink from './GitHubLink'
+
 const Footer = () => {
   const links = [
     'Meta', 'About', 'Blog', 'Jobs', 'Help', 'API', 'Privacy', 'Terms', 'Locations',
@@ -5,7 +7,7 @@ const Footer = () => {
   ]
 
   return (
-    <footer className="w-full py-8 text-center">
+    <footer className="w-full py-8 text-center relative">
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 mb-4">
           {links.map((link) => (
@@ -17,9 +19,11 @@ const Footer = () => {
             </a>
           ))}
         </div>
-        <div className="flex justify-center items-center gap-4 mt-4 text-xs text-gray-500 dark:text-gray-400">
+        <div className="flex justify-center items-center gap-2 mt-4 text-xs text-gray-500 dark:text-gray-400">
           <span>English</span>
           <span>© 2025 Instagram from Meta</span>
+          {/* Mobile GitHub icon appears here */}
+          <GitHubLink />
         </div>
       </div>
     </footer>
