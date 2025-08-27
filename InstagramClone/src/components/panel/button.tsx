@@ -5,7 +5,7 @@ interface IProps {
 
 const Button = ({ children, blacked = false }: IProps) => {
   return (
-    <button className={`text-xs text-blue-500 font-semibold ${blacked ? 'text-black' : 'text-blue-500'}`}>
+    <button className={`text-xs font-semibold ${blacked ? 'text-black dark:text-white' : 'text-blue-500 dark:text-blue-400'}`}>
       {children}
     </button>
   )

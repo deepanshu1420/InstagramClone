@@ -5,7 +5,7 @@ interface IProps {
 const Path = ({ Icon }: IProps) => {
   return (
     <li>
-      <a className="cursor-pointer">
+      <a className="cursor-pointer dark:text-white">
         <Icon className="w-7 h-7" />
       </a>
     </li>

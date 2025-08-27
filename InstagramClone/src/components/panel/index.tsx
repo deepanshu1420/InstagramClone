@@ -18,14 +18,14 @@ const Panel = () => {
           </div>
           <div>
             <h2 className="font-semibold text-md">deepanshu.sharmaa</h2>
-            <h3 className="opacity-50">Deepanshu Sharma</h3>
+            <h3 className="opacity-50 dark:opacity-70">Deepanshu Sharma</h3>
           </div>
         </div>
         <Button>Switch</Button>
       </div>
 
       <div className="flex items-center justify-between">
-        <h1 className="font-semibold opacity-50">Suggestions For You</h1>
+        <h1 className="font-semibold opacity-50 dark:opacity-70">Suggestions For You</h1>
         <Button blacked>See All</Button>
       </div>
 

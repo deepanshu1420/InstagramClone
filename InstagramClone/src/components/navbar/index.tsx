@@ -5,8 +5,14 @@ import Path from './path'
 import { ExploreIcon, HeartIcon, MessengerIcon, PostIcon } from './icons'
 import Profile from './profile'
 import { MenuAlt4Icon } from '@heroicons/react/outline'
+import ThemeSwitcher from './ThemeSwitcher'
 
-const Navbar = () => {
+interface IProps {
+  theme: string
+  toggleTheme: () => void
+}
+
+const Navbar = ({ theme, toggleTheme }: IProps) => {
   return (
     <nav className="flex items-center justify-between px-5 h-14 gap-5">
       <Logo />
@@ -20,6 +26,7 @@ const Navbar = () => {
           <Path Icon={HeartIcon} />
         </ul>
         <MenuAlt4Icon className="w-6 sm:hidden" />
+        <ThemeSwitcher theme={theme} toggleTheme={toggleTheme} />
         <Profile />
       </div>
     </nav>
