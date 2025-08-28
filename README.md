@@ -43,13 +43,13 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 ### Desktop Views
 
 ![Home Light Mode](./DesktopScreenshot/HomeLightMode.png)  
-*Home page in light mode with full desktop layout.*
+*Full desktop layout with bright, clean, and intuitive design.*
 
 ![Home Dark Mode](./DesktopScreenshot/DarkMode.png)  
-*Home page in dark mode for desktop users.*
+*Optimized desktop layout with visually comfortable dark theme.*
 
 ![Home Feed Example](./DesktopScreenshot/Home1.png)  
-*Example of posts with likes and comments.*
+*Showcases posts with likes and comments for a realistic social media experience.*
 
 ### Mobile View
 
