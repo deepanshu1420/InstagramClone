@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 Overview
-This project is a clean, mobile-first Instagram UI clone built with **React, TypeScript, and Tailwind CSS**. It simulates core interactions like creating posts, liking, and commenting on the client side. The UI/UX is designed to be **minimal, intuitive, responsive, and accessible**, closely following Instagram's official design.
+This project is a clean, mobile-first Instagram UI clone built with **React, TypeScript, Tailwind CSS, PostCSS, and Vite**. It simulates core interactions like creating posts, liking, and commenting on the client side. The UI/UX is designed to be **minimal, intuitive, responsive, and accessible**, closely following Instagram's official design.
 
 ---
 
