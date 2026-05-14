@@ -9,7 +9,7 @@
 ![UI/UX](https://img.shields.io/badge/UI_UX-Clean%20%26%20Minimal-blue?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-**A responsive Instagram-inspired UI for photo sharing with post creation, likes, and comments — frontend only.**  
+**A responsive Instagram-inspired UI for photo sharing with post creation, likes, and comments - frontend only.**  
 
 **🌐 Live Demo:** [Instagram Clone](https://insta-clone-online.netlify.app/)
 
