@@ -1,4 +1,4 @@
-# 📸 Instagram UI Clone
+# 📸 Instagram Clone
 
 ![React](https://img.shields.io/badge/React-18-61dafb?style=flat&logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat&logo=typescript&logoColor=fff)
@@ -11,14 +11,10 @@
 
 **A responsive Instagram-inspired UI for photo sharing with post creation, likes, and comments — frontend only.**  
 
-**🌐 Live Demo:** [Instagram UI clone](https://insta-clone-online.netlify.app/)
-
----
+**🌐 Live Demo:** [Instagram Clone](https://insta-clone-online.netlify.app/)
 
 ## 🌟 Overview
 This project is a clean, mobile-first Instagram UI clone built with **React, TypeScript, Tailwind CSS, PostCSS, and Vite**. It simulates core interactions like creating posts, liking, and commenting on the client side. The UI/UX is designed to be **minimal, intuitive, responsive, and accessible**, closely following Instagram's official design.
-
----
 
 ## ⚡ Features
 - **Post creation UI:** Add images and captions with preview.  
@@ -27,8 +23,6 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - **Responsive layout:** Flexbox/Grid for desktop and mobile.  
 - **Clean UX:** Minimal, accessible, and consistent components.  
 
----
-
 ## ✨ Highlights
 - Tried to replicate the UI/UX as closely as possible to the real Instagram.  
 - Fully responsive on **mobile phones**, tablets, and desktops.  
@@ -36,11 +30,9 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - Light/Dark theme toggle in the navbar for seamless theme switching.
 - Built with scalability in mind, easy to integrate a backend or additional features later.  
 
----
-
 ## 🖼 Screenshots
 
-### Desktop Views
+### 🖥 Desktop Views
 
 ![Home Light Mode](./DesktopScreenshot/HomeLightMode.png)  
 *Full desktop layout with bright, clean, and intuitive design.*
@@ -51,17 +43,23 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 ![Home Feed Example](./DesktopScreenshot/Home1.png)  
 *Showcases posts with likes and comments for a realistic social media experience.*
 
-### Mobile View
+### 📱 Mobile View
 
 ![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
 *Fully responsive mobile layout, optimized for small screens.*
 
----
+## 🛠 Tech Stack
 
-## 🛠 Installation
+- Frontend: React v18, TypeScript, Tailwind CSS  
+- UI Components: Heroicons  
+- Styling & Build Tools: PostCSS, Vite  
+- Concepts Used: Responsive UI/UX, Component-Based Architecture  
+- Deployment & Version Control: Git, GitHub, Netlify  
+
+## 🛠 Setup & Installation
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/deepanshu1420/InstagramClone.git
 
 # Go to the project folder
 cd InstagramClone
@@ -69,5 +67,6 @@ cd InstagramClone
 # Install dependencies
 npm install
 
-# Start the dev server
+# Start the development server
 npm run dev
+```
