@@ -61,7 +61,7 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - 🏗️ Concepts Used: Responsive UI/UX, Component-Based Architecture  
 - 📦 Deployment & Version Control: Git, GitHub, Netlify  
 
-## 🛠 Setup & Installation
+## ⚙️ Setup & Installation
 ```bash
 # Clone the repository
 git clone https://github.com/deepanshu1420/InstagramClone.git
