@@ -14,21 +14,24 @@
 **🌐 Live Demo :** [Instagram Clone](https://insta-clone-online.netlify.app/)
 
 ## 🌟 Overview
+
 This project is a clean, mobile-first Instagram UI clone built with **React, TypeScript, Tailwind CSS, PostCSS and Vite**. It simulates core interactions like creating posts, liking and commenting on the client side. The UI/UX is designed to be **minimal, intuitive, responsive and accessible**, closely following Instagram's official design.
 
 ## ⚡ Features
-- **Post creation UI:** Add images and captions with preview.  
-- **Like & comment simulation:** Interact with posts (no persistent storage).  
-- **Dynamic feed:** New posts appear instantly.  
-- **Responsive layout:** Flexbox/Grid for desktop and mobile.  
-- **Clean UX:** Minimal, accessible and consistent components.  
+
+- **📸 Post creation UI:** Add images and captions with preview.  
+- **❤️ Like & comment simulation:** Interact with posts (no persistent storage).  
+- **📰 Dynamic feed:** New posts appear instantly.  
+- **📱 Responsive layout:** Flexbox/Grid for desktop and mobile.  
+- **✨ Clean UX:** Minimal, accessible and consistent components.  
 
 ## ✨ Highlights
-- Tried to replicate the UI/UX as closely as possible to the real Instagram.  
-- Fully responsive on **mobile phones**, tablets and desktops.  
-- Inspired though **"Instagram by Meta"**, with attention to visual details, typography and spacing.  
-- Light/Dark theme toggle in the navbar for seamless theme switching.
-- Built with scalability in mind, easy to integrate a backend or additional features later.  
+
+- 🎯 Tried to replicate the UI/UX as closely as possible to the real Instagram.  
+- 📱 Fully responsive on **mobile phones**, tablets and desktops.  
+- 🎨 Inspired though **"Instagram by Meta"**, with attention to visual details, typography and spacing.  
+- 🌗 Light/Dark theme toggle in the navbar for seamless theme switching.
+- 🚀 Built with scalability in mind, easy to integrate a backend or additional features later.  
 
 ## 🖼 Screenshots
 
@@ -50,13 +53,13 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 ![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
 *Fully responsive mobile layout, optimized for small screens.*
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack Used
 
-- Frontend: React v18, TypeScript, Tailwind CSS  
-- UI Components: Heroicons  
-- Styling & Build Tools: PostCSS, Vite  
-- Concepts Used: Responsive UI/UX, Component-Based Architecture  
-- Deployment & Version Control: Git, GitHub, Netlify  
+- ⚛️ Frontend: React v18, TypeScript, Tailwind CSS  
+- 🧩 UI Components: Heroicons  
+- 🎨 Styling & Build Tools: PostCSS, Vite  
+- 🏗️ Concepts Used: Responsive UI/UX, Component-Based Architecture  
+- 📦 Deployment & Version Control: Git, GitHub, Netlify  
 
 ## 🛠 Setup & Installation
 ```bash
