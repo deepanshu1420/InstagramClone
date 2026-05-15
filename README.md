@@ -23,7 +23,7 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - **❤️ Like & comment simulation:** Interact with posts (no persistent storage).  
 - **📰 Dynamic feed:** New posts appear instantly.  
 - **📱 Responsive layout:** Flexbox/Grid for desktop and mobile.  
-- **✨ Clean UX:** Minimal, accessible and consistent components.  
+- **☄️ Clean UX:** Minimal, accessible and consistent components.  
 
 ## ✨ Highlights
 
