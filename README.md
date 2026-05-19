@@ -61,17 +61,37 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - 🏗️ Concepts Used: Responsive UI/UX, Component-Based Architecture  
 - 📦 Deployment & Version Control: Git, GitHub, Netlify  
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup and Installation
+
+Follow these steps to run the project locally on your machine:
+
+### 1️⃣ Clone the Repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/deepanshu1420/InstagramClone.git
-
-# Go to the project folder
 cd InstagramClone
+```
 
-# Install dependencies
+### 2️⃣ Install Dependencies
+
+Make sure you have **Node.js** installed, then run:
+
+```bash
 npm install
+```
 
-# Start the development server
+### 3️⃣ Start the Development Server
+
+```bash
 npm run dev
 ```
+
+### 4️⃣ Open the Application
+
+Open your browser and visit:
+
+```bash
+http://localhost:3000
+```
+
+The app should now be running locally ☄️
