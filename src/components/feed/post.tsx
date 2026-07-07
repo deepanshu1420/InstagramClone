@@ -17,6 +17,7 @@ const Post = ({ post }: IProps) => {
   const [liked, setLiked] = useState(false)
   const [showHeart, setShowHeart] = useState(false)
   const heartTimer = useRef<number | null>(null)
+  const lastTap = useRef(0)
   
   const handleDoubleClick = () => {
     if (!liked) {
@@ -25,19 +26,30 @@ const Post = ({ post }: IProps) => {
     
     setShowHeart(true)
     
-    if (heartTimer.current) {
+    if (heartTimer.current !== null) {
       clearTimeout(heartTimer.current)
     }
     
     heartTimer.current = window.setTimeout(() => {
       setShowHeart(false)
+      heartTimer.current = null
     }, 700)
   
   }
 
+  const handleTouchEnd = () => {
+    const now = Date.now()
+
+    if (now - lastTap.current < 300) {
+      handleDoubleClick()
+    }
+
+    lastTap.current = now
+  }
+
   useEffect(() => {
     return () => {
-      if (heartTimer.current) {
+      if (heartTimer.current !== null) {
         clearTimeout(heartTimer.current)
       }
     }
@@ -60,6 +72,7 @@ const Post = ({ post }: IProps) => {
       <div
       className="relative -mx-5 aspect-square overflow-hidden"
       onDoubleClick={handleDoubleClick}
+      onTouchEnd={handleTouchEnd}
       >
         <img className="w-full" src={post.image} alt={post.username} />
         {showHeart && (
