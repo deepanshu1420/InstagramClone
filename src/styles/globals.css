@@ -4,10 +4,36 @@
 
 @layer components {
   .card {
-    @apply border-[1px] border-gray-300 dark:border-gray-700 rounded-lg bg-white dark:bg-black px-5 p-4 max-w-[30rem] mx-auto
+    @apply border-[1px] border-gray-300 dark:border-gray-700 rounded-lg bg-white dark:bg-black px-5 p-4 max-w-[30rem] mx-auto;
   }
 }
 
 body {
-  @apply bg-neutral-100 dark:bg-black text-sm text-black dark:text-white
+  @apply bg-neutral-100 dark:bg-black text-sm text-black dark:text-white;
+}
+
+@keyframes heartPop {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  25% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+
+  50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.4);
+    opacity: 0;
+  }
+}
+
+.animate-heartPop {
+  animation: heartPop 700ms ease forwards;
 }

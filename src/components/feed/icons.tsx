@@ -14,6 +14,24 @@ export const HeartIcon = () => {
   )
 }
 
+export const FilledHeartIcon = () => {
+  return (
+    <svg
+      aria-label="Unlike"
+      className="cursor-pointer hover:opacity-50 scale-110"
+      height="24"
+      role="img"
+      viewBox="0 0 24 24"
+      width="24"
+    >
+      <path
+        fill="#ff3040"
+        d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09A6.03 6.03 0 0116.5 3C19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+      />
+    </svg>
+  )
+}
+
 export const MessageIcon = () => {
   return (
     <svg
