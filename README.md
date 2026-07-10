@@ -12,7 +12,7 @@
 
 A responsive `Instagram-inspired UI` for photo sharing with post creation, likes and comments - frontend only.  
 
-**🌐 Explore the Instagram-inspired interface in action :** [Live Demo](https://instawebclone.vercel.app/)
+**🌐 Explore the Instagram-style interface in action :** [Live Demo](https://instawebclone.vercel.app/)
 
 ## 🌟 Overview
 
