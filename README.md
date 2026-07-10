@@ -96,12 +96,10 @@ npm install
 npm run dev
 ```
 
-### 5️⃣ Open the Application
+✅ **That's it!** The project should now be running locally at:
 
-Open your browser and visit:
-
-```bash
+```text
 http://localhost:3000
 ```
 
-The application should now be running locally on your machine. ☄️
+Open the URL in your browser and start exploring a seamless `Instagram-inspired` social media interface. ☄️
