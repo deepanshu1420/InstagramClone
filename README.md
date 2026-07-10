@@ -20,7 +20,7 @@
 - **📸 Post creation UI:** Add images and captions with preview.  
 - **❤️ Like & comment simulation:** Interact with posts (no persistent storage).  
 - **📰 Dynamic feed:** New posts appear instantly.  
-- **📱 Responsive layout:** Flexbox/Grid for desktop and mobile.  
+- **📐 Layout system:** Flexbox/Grid for clean alignment.  
 - **🔥 Clean UX:** Minimal, accessible and consistent components.  
 
 ## ✨ Highlights
