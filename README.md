@@ -32,7 +32,7 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - 📱 Fully responsive on **mobile phones**, tablets and desktops.  
 - 🎨 Inspired though **"Instagram by Meta"**, with attention to visual details, typography and spacing.  
 - 🌗 Light/Dark theme toggle in the navbar for seamless theme switching.
-- ❤️ Interactive **Like functionality** for posts with instant UI updates.
+- 💖 Interactive **Like functionality** for posts with instant UI updates.
 - 🚀 Built with scalability in mind, easy to integrate a backend or additional features later.  
 
 ## 🖼 Screenshots / Demo
