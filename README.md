@@ -7,9 +7,10 @@
 ![PostCSS](https://img.shields.io/badge/PostCSS-8.x-dd3a0a?style=flat&logo=postcss&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat&logo=vite&logoColor=fff)
 ![UI/UX](https://img.shields.io/badge/UI_UX-Clean%20%26%20Minimal-blue?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-Live-000000?style=flat&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-**A responsive Instagram-inspired UI for photo sharing with post creation, likes and comments - frontend only.**  
+A responsive `Instagram-inspired UI` for photo sharing with post creation, likes and comments - frontend only.  
 
 **🌐 Live Demo :** [Instagram Clone](https://instawebclone.vercel.app/)
 
@@ -62,7 +63,7 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - **🧩 UI Components:** Heroicons  
 - **🎨 Styling & Build Tools:** PostCSS, Vite  
 - **🏗️ Concepts Used:** Responsive UI/UX, Component-Based Architecture  
-- **📦 Deployment:** Git, GitHub
+- **📦 Version Control:** Git, GitHub
 - **🔗 Deployment:** Vercel 
 
 ## ⚙️ Setup and Installation
@@ -83,7 +84,7 @@ cd InstagramClone
 
 ### 3️⃣ Install Dependencies
 
-Make sure you have **Node.js** installed, then run:
+Make sure you have `Node.js` installed, then run:
 
 ```bash
 npm install
