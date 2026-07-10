@@ -11,7 +11,7 @@
 
 **A responsive Instagram-inspired UI for photo sharing with post creation, likes and comments - frontend only.**  
 
-**🌐 Live Demo :** [Instagram Clone](https://insta-clone-online.netlify.app/)
+**🌐 Live Demo :** [Instagram Clone](https://instawebclone.vercel.app/)
 
 ## 🌟 Overview
 
@@ -23,7 +23,7 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - **❤️ Like & comment simulation:** Interact with posts (no persistent storage).  
 - **📰 Dynamic feed:** New posts appear instantly.  
 - **📱 Responsive layout:** Flexbox/Grid for desktop and mobile.  
-- **☄️ Clean UX:** Minimal, accessible and consistent components.  
+- **🔥 Clean UX:** Minimal, accessible and consistent components.  
 
 ## ✨ Highlights
 
@@ -31,9 +31,12 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 - 📱 Fully responsive on **mobile phones**, tablets and desktops.  
 - 🎨 Inspired though **"Instagram by Meta"**, with attention to visual details, typography and spacing.  
 - 🌗 Light/Dark theme toggle in the navbar for seamless theme switching.
+- ❤️ Interactive **Like functionality** for posts with instant UI updates.
 - 🚀 Built with scalability in mind, easy to integrate a backend or additional features later.  
 
-## 🖼 Screenshots
+## 🖼 Screenshots / Demo
+
+> Take a look at some screenshots showcasing the website.
 
 ### ☀️ Home (Light Mode)
 
@@ -55,24 +58,30 @@ This project is a clean, mobile-first Instagram UI clone built with **React, Typ
 
 ## 🛠 Tech Stack Used
 
-- ⚛️ Frontend: React v18, TypeScript, Tailwind CSS  
-- 🧩 UI Components: Heroicons  
-- 🎨 Styling & Build Tools: PostCSS, Vite  
-- 🏗️ Concepts Used: Responsive UI/UX, Component-Based Architecture  
-- 📦 Deployment & Version Control: Git, GitHub, Netlify  
+- **⚛️ Frontend:** React v18, TypeScript, Tailwind CSS  
+- **🧩 UI Components:** Heroicons  
+- **🎨 Styling & Build Tools:** PostCSS, Vite  
+- **🏗️ Concepts Used:** Responsive UI/UX, Component-Based Architecture  
+- **📦 Deployment:** Git, GitHub
+- **🔗 Deployment:** Vercel 
 
 ## ⚙️ Setup and Installation
 
-Follow these steps to run the project locally on your machine:
+> To set up and run the project locally, follow these steps below:
 
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/deepanshu1420/InstagramClone.git
+```
+
+### 2️⃣ Navigate to the project directory
+
+```bash
 cd InstagramClone
 ```
 
-### 2️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 
 Make sure you have **Node.js** installed, then run:
 
@@ -80,13 +89,13 @@ Make sure you have **Node.js** installed, then run:
 npm install
 ```
 
-### 3️⃣ Start the Development Server
+### 4️⃣ Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-### 4️⃣ Open the Application
+### 5️⃣ Open the Application
 
 Open your browser and visit:
 
@@ -94,4 +103,4 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
-The app should now be running locally ☄️
+The application should now be running locally on your machine. ☄️
