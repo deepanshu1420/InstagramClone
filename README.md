@@ -10,7 +10,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-8B5CF6?style=flat&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)  
 
-- This application is a clean, mobile-first `Instagram UI clone` that faithfully recreates the look and feel of `Instagram's official design` with a pixel-perfect, theme-aware interface. 
+- This application is a clean, mobile-first Instagram UI clone that faithfully recreates the look and feel of `Instagram's official design` with a pixel-perfect, theme-aware interface. 
 - It features interactive post liking, seamless light and dark mode switching, fully responsive layouts, smooth user interactions, and a modern, intuitive user experience with meticulous attention to visual details, spacing, and typography.
 
 **🌐 Explore the Instagram-style interface in action :** [Live Demo](https://instawebclone.vercel.app/)
