@@ -26,8 +26,8 @@
 ## ✨ Highlights
 
 - 🎯 Tried to replicate the UI/UX as closely as possible to the real Instagram.  
-- 📱 Fully responsive on **mobile phones**, tablets and desktops.  
-- 🎨 Inspired though **"Instagram by Meta"**, with attention to visual details, typography and spacing.  
+- 📲 Fully responsive on **mobile phones**, tablets and desktops.  
+- 🎨 Emphasizes **clean aesthetics**, consistent spacing, and a polished visual experience.  
 - 🌗 Light/Dark theme toggle in the navbar for seamless theme switching.
 - 💖 Interactive **Like functionality** for posts with instant UI updates.
 - 🚀 Built with scalability in mind, easy to integrate a backend or additional features later.  
