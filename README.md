@@ -7,7 +7,7 @@
 ![PostCSS](https://img.shields.io/badge/PostCSS-8.x-dd3a0a?style=flat&logo=postcss&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat&logo=vite&logoColor=fff)
 ![UI/UX](https://img.shields.io/badge/UI_UX-Clean%20%26%20Minimal-blue?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-Live-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-8B5CF6?style=flat&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 A responsive `Instagram-inspired UI` for photo sharing with post creation, likes and comments - frontend only.  
