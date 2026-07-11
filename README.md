@@ -15,7 +15,7 @@
 
 **🌐 Explore the Instagram-style interface in action :** [Live Demo](https://instawebclone.vercel.app/)
 
-## ⚡ Features
+## 💡 Features
 
 - **📸 Post creation UI:** Add images and captions with preview.  
 - **❤️ Like & comment simulation:** Interact with posts (no persistent storage).  
