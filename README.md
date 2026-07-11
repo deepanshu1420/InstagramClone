@@ -56,10 +56,11 @@
 
 ## 🛠 Tech Stack Used
 
-- **⚛️ Frontend:** React v18, TypeScript, Tailwind CSS  
-- **🧩 UI Components:** Heroicons  
-- **🎨 Styling & Build Tools:** PostCSS, Vite  
-- **🏗️ Concepts Used:** Responsive UI/UX, Component-Based Architecture  
+- **⚛️ Frontend:** React v18, TypeScript
+- **🎨 Styling:** Tailwind CSS (Utility-First CSS Framework), PostCSS
+- **🧩 UI Components:** Heroicons
+- **⚡ Build Tool:** Vite
+- **🏗️ Concepts Used:** Responsive UI/UX, Component-Based Architecture
 - **📦 Version Control:** Git, GitHub
 - **🔗 Deployment:** Vercel 
 
