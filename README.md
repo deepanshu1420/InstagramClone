@@ -36,23 +36,30 @@
 
 > Take a look at some screenshots showcasing the website.
 
+### 🌙 Home (Dark Mode)
+
+![Home Dark Mode](./screenshots/DarkMode.png)  
+*Elegant dark theme with a modern Instagram-inspired interface and responsive navigation.*
+
 ### ☀️ Home (Light Mode)
 
-![Home Light Mode](./DesktopScreenshot/HomeLightMode.png)  
-*Full desktop layout with bright, clean and intuitive design.*
+![Home Light Mode](./screenshots/LightMode.png)  
+*Clean and vibrant light theme offering a familiar and intuitive user experience.*
 
-### 🌙 Home (Dark Mode)
-![Home Dark Mode](./DesktopScreenshot/DarkMode.png)  
-*Optimized desktop layout with visually comfortable dark theme.*
+### ❤️ Like Feature
 
-### ❤️ Home Feed Example
-![Home Feed Example](./DesktopScreenshot/Home1.png)  
-*Showcases posts with likes and comments for a realistic social media experience.*
+![Like Feature](./screenshots/LikeFeature.png)  
+*Interactive like functionality with instant visual feedback for an immersive Instagram feel.*
+
+### 🏠 Home Feed
+
+![Home Feed](./screenshots/HomeFeed.png)  
+*Displays the main feed with posts, user profiles, and a responsive Instagram-style layout.*
 
 ### 📱 Mobile Responsive View
 
-![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
-*Fully responsive mobile layout, optimized for small screens.*
+![Mobile Responsive View](./screenshots/MobileView.png)  
+*Fully responsive mobile interface optimized for seamless browsing across different screen sizes.*
 
 ## 🛠 Tech Stack Used
 
