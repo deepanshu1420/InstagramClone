@@ -38,27 +38,27 @@
 
 ### 🌙 Home (Dark Mode)
 
-![Home Dark Mode](./screenshots/DarkMode.png)  
+![Home Dark Mode](./DesktopScreenshot/DarkMode.png)  
 *Elegant dark theme with a modern Instagram-inspired interface and responsive navigation.*
 
 ### ☀️ Home (Light Mode)
 
-![Home Light Mode](./screenshots/LightMode.png)  
+![Home Light Mode](./DesktopScreenshot/LightMode.png)  
 *Clean and vibrant light theme offering a familiar and intuitive user experience.*
 
 ### ❤️ Like Feature
 
-![Like Feature](./screenshots/LikeFeature.png)  
+![Like Feature](./DesktopScreenshot/LikeFeature.png)  
 *Interactive like functionality with instant visual feedback for an immersive Instagram feel.*
 
 ### 🏠 Home Feed
 
-![Home Feed](./screenshots/HomeFeed.png)  
+![Home Feed](./DesktopScreenshot/HomeFeed.png)  
 *Displays the main feed with posts, user profiles, and a responsive Instagram-style layout.*
 
 ### 📱 Mobile Responsive View
 
-![Mobile Responsive View](./screenshots/MobileView.png)  
+![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
 *Fully responsive mobile interface optimized for seamless browsing across different screen sizes.*
 
 ## 🛠 Tech Stack Used
