@@ -44,7 +44,7 @@
 ### ☀️ Home (Light Mode)
 
 ![Home Light Mode](./DesktopScreenshot/LightMode.png)  
-*Clean and vibrant light theme offering a familiar and intuitive user experience.*
+*Clean and `vibrant light theme` offering a familiar and intuitive user experience.*
 
 ### ❤️ Like Feature
 
@@ -89,7 +89,7 @@ cd InstagramClone
 
 ### 3️⃣ Install Dependencies
 
-Make sure you have `Node.js` installed, then run:
+> Make sure you have `Node.js` installed, then run:
 
 ```bash
 npm install
