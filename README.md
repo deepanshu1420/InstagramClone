@@ -39,7 +39,7 @@
 ### 🌙 Home (Dark Mode)
 
 ![Home Dark Mode](./DesktopScreenshot/DarkMode.png)  
-*Elegant dark theme with a modern Instagram-inspired interface and responsive navigation.*
+*Elegant dark theme with a `modern Instagram-inspired` interface and responsive navigation.*
 
 ### ☀️ Home (Light Mode)
 
@@ -49,7 +49,7 @@
 ### ❤️ Like Feature
 
 ![Like Feature](./DesktopScreenshot/LikeFeature.png)  
-*Interactive like functionality with instant visual feedback for an immersive Instagram feel.*
+*Interactive `like functionality` with instant visual feedback for an immersive Instagram feel.*
 
 ### 🏠 Home Feed
 
@@ -59,7 +59,7 @@
 ### 📱 Mobile Responsive View
 
 ![Mobile Responsive View](./DesktopScreenshot/MobileView.png)  
-*Fully responsive mobile interface optimized for seamless browsing across different screen sizes.*
+*Fully `responsive mobile interface` optimized for seamless browsing across different screen sizes.*
 
 ## 🛠 Tech Stack Used
 
@@ -68,7 +68,7 @@
 - **🧩 UI Components:** Heroicons
 - **⚡ Build Tool:** Vite
 - **🏗️ Concepts Used:** Responsive UI/UX, Component-Based Architecture
-- **📦 Version Control:** Git, GitHub
+- **📦 Version Control:** Git & GitHub
 - **🔗 Deployment:** Vercel 
 
 ## ⚙️ Setup and Installation
